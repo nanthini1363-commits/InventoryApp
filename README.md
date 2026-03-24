@@ -1,3 +1,4 @@
+
 # 📦 Inventory Management App
 
 A production-grade **React Native (Expo)** mobile application for inventory management with barcode/QR scanning, billing, and local data persistence.
@@ -191,4 +192,5 @@ eas build -p ios --profile preview
 
 - GitHub repository: `<your-repo-link>`
 - Built by: **Nanthini**
-- Assessment: Novaloid Frontend Technical Assessment — Inventory Management Mobile App
+
+
