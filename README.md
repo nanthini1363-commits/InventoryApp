@@ -11,7 +11,7 @@ Built as part of the **Novaloid Technical Assessment**.
 
 | Feature | Description |
 |---|---|
-| **Add Product** | Add products with Name, Price, Quantity, and unique Barcode/QR value (manual or auto-generated) |
+| **Add Product** | Add products with Name, Price, Quantity, and unique Barcode/QR value (manual or auto-generated) |(./screenshots/home.png)
 | **Edit / Delete** | Edit or remove any product from the inventory list |
 | **Scan Product** | Use device camera to scan barcodes & QR codes; display product details on match |
 | **Simple Billing** | Scan products to build a cart, view total, confirm purchase, and auto-reduce stock |
