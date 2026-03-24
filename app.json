@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Inventory Manager",
+    "slug": "inventory-management-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.novaloid.inventoryapp",
+      "infoPlist": {
+        "NSCameraUsageDescription": "This app uses the camera to scan barcodes and QR codes.",
+        "NSMicrophoneUsageDescription": "Microphone access may be requested by the camera."
+      }
+    },
+    "android": {
+      "package": "com.novaloid.inventoryapp",
+      "permissions": [
+        "android.permission.CAMERA"
+      ]
+    },
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow Inventory Manager to access your camera to scan barcodes."
+        }
+      ],
+      "expo-font"
+    ]
+  }
+}
