@@ -129,7 +129,6 @@ npx expo start
 ## 📱 Screen Guide
 
 ### 🏠 Home (Inventory)
-(./screenshots/home.png)
 - Stats bar showing total products, total inventory value, and low-stock count
 - Search products by name or barcode
 - Tap a product card's pencil icon to edit, trash icon to delete
